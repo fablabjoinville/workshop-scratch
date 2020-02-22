@@ -1,5 +1,5 @@
 # Scratch-day
-Material das oficinas de programação em blocos ministrada pelo @menderson
+Material das oficinas de programação em blocos ministrada pelo [@menderson](https://github.com/menderson)
 
 ## O projeto
 A ação de extensão Difusão da Cultura Maker, desenvolvida na Universidade do Estado de Santa Catarina (Udesc) em Joinville, em parceria com o Laboratório Fab Lab, promoveu entre os meses de setembro e novembro o projeto “Scratch Day”. 
